@@ -1,0 +1,51 @@
+rank,generic_drug,major_us_brands,class,principal_uses,rx_2024,patients_2024,delta_vs_2023
+1,Atorvastatin,Lipitor,Statin,Hyperlipidemia; ASCVD prevention,115678209,29693562,+0.4%
+2,Levothyroxine,"Synthroid, Levoxyl, Tirosint, Unithroid",Thyroid hormone,Hypothyroidism; TSH suppression,82380627,18951597,+1.8%
+3,Metformin,"Glucophage, Fortamet, Glumetza",Biguanide,Type 2 diabetes,82288616,19591188,-4.0%
+4,Amlodipine,Norvasc,DHP calcium-channel blocker,Hypertension; angina,71333516,18384700,+3.8%
+5,Lisinopril,"Zestril, Qbrelis",ACE inhibitor,Hypertension; HF; post-MI,66676852,16875820,-12.3%
+6,Albuterol,"Ventolin HFA, AccuNeb",SABA bronchodilator,Asthma/COPD bronchospasm,61972757,19549398,+4.1%
+7,Losartan,Cozaar,ARB,Hypertension; diabetic nephropathy,59030486,15388926,+5.1%
+8,Metoprolol,"Lopressor, Toprol-XL",Beta-1 blocker,Hypertension; angina; HF; post-MI,58193752,14593180,-2.3%
+9,Rosuvastatin,Crestor,Statin,Hyperlipidemia; ASCVD prevention,53688649,14395580,+27.5%
+10,Omeprazole,Prilosec,Proton-pump inhibitor,GERD; peptic ulcer disease,49784460,13105287,+9.9%
+11,Gabapentin,"Neurontin, Gralise",Gabapentinoid/anticonvulsant,Seizures; postherpetic neuralgia; neuropathic pain,46839967,11472603,+1.9%
+12,Sertraline,Zoloft,SSRI,Depression; OCD; PTSD; panic; anxiety disorders,44634055,10233568,+4.8%
+13,Escitalopram,Lexapro,SSRI,Depression; generalized anxiety disorder,41773078,9451175,+12.6%
+14,Semaglutide,"Ozempic, Wegovy, Rybelsus",GLP-1 receptor agonist,Type 2 diabetes; obesity; CV risk reduction,40938165,8305003,+57.7%
+15,Mixed amphetamine salts,"Adderall, Adderall XR",CNS stimulant,ADHD; narcolepsy,36846046,5278621,+13.1%
+16,Pantoprazole,Protonix,Proton-pump inhibitor,GERD; erosive esophagitis,34940431,9267630,-5.8%
+17,Bupropion,"Wellbutrin, Wellbutrin XL/SR, Zyban",NDRI antidepressant,Depression; SAD; smoking cessation,34895515,8042017,+15.0%
+18,Hydrochlorothiazide,Microzide,Thiazide diuretic,Hypertension; edema,31989426,7943024,+0.7%
+19,Fluoxetine,"Prozac, Sarafem",SSRI,Depression; OCD; panic; bulimia; PMDD,29517275,6177251,+7.3%
+20,Trazodone,Desyrel,SARI antidepressant,Depression; insomnia,26159531,6424130,+5.9%
+21,Montelukast,Singulair,Leukotriene-receptor antagonist,Asthma; allergic rhinitis; EIB,25780477,6739117,-0.4%
+22,Amoxicillin,Amoxil,Aminopenicillin antibiotic,Susceptible bacterial infections,24971312,18961962,+6.2%
+23,Fluticasone,"Flonase, Arnuity Ellipta, Cutivate",Corticosteroid,Allergic rhinitis; asthma; dermatologic inflammation,22934060,8386251,+9.0%
+24,Tamsulosin,Flomax,Alpha-1A blocker,BPH,22619048,6111597,-1.2%
+25,Apixaban,Eliquis,Factor Xa inhibitor,AF stroke prevention; DVT/PE,21857073,5352349,+10.2%
+26,Simvastatin,"Zocor, FloLipid",Statin,Hyperlipidemia; CV prevention,21477295,5708410,-12.6%
+27,Insulin glargine,"Lantus, Basaglar, Semglee, Toujeo",Long-acting insulin,Diabetes mellitus,21364477,4663077,+16.0%
+28,Empagliflozin,Jardiance,SGLT2 inhibitor,T2DM; HF; CKD,20797026,5096303,+24.2%
+29,Furosemide,"Lasix, Furoscix",Loop diuretic,Edema; HF; hypertension,20051956,5552905,+4.8%
+30,Meloxicam,"Mobic, Qmiiz, Vivlodex",NSAID,Osteoarthritis; rheumatoid arthritis; pain,19699161,6688033,-4.9%
+31,Hydrocodone/acetaminophen,"Norco, Vicodin, Lortab",Opioid/nonopioid analgesic,Moderate-severe pain,19132427,6538301,-11.0%
+32,Tirzepatide,"Mounjaro, Zepbound",GIP/GLP-1 agonist,T2DM; obesity/weight management,18694230,3513984,+196.3%
+33,Methylphenidate,"Ritalin, Concerta, Daytrana, Quillivant XR, Jornay PM",CNS stimulant,ADHD; narcolepsy,18572946,2985529,+40.2%
+34,Duloxetine,Cymbalta,SNRI,Depression; GAD; neuropathic pain; fibromyalgia,17860263,4071231,-1.1%
+35,Prednisone,Rayos,Systemic glucocorticoid,Inflammatory; autoimmune and allergic disorders,17833596,10096822,+12.9%
+36,Carvedilol,"Coreg, Coreg CR",Alpha-1/beta blocker,HF; hypertension; post-MI LV dysfunction,17059037,4247337,+3.0%
+37,Famotidine,"Pepcid, Pepcid AC",H2 antagonist,GERD; ulcers; heartburn,17038530,5284271,+0.9%
+38,Ibuprofen,"Motrin, Advil",NSAID,Pain; fever; inflammation; dysmenorrhea,16850357,10154859,-3.9%
+39,Buspirone,BuSpar,Anxiolytic; 5-HT1A partial agonist,Anxiety,16706971,3719958,+9.7%
+40,Venlafaxine,"Effexor, Effexor XR",SNRI,Depression; GAD; panic; social anxiety,16273306,3429959,+23.0%
+41,Tramadol,"Ultram, ConZip",Opioid analgesic/SNRI activity,Pain,14950504,4560571,-6.6%
+42,Potassium chloride,"Klor-Con, K-Tab, Micro-K",Electrolyte,Prevention/treatment of hypokalemia,14928020,4083040,+2.8%
+43,Hydroxyzine,Vistaril,1st-generation H1 antihistamine,Pruritus; anxiety; perioperative sedation,14857240,4680154,-2.7%
+44,Allopurinol,Zyloprim,Xanthine-oxidase inhibitor,Gout; hyperuricemia,14851781,3829103,+3.8%
+45,Clopidogrel,Plavix,P2Y12 antiplatelet,ACS; secondary prevention after MI/stroke; PAD,14613273,3656674,-4.0%
+46,Ergocalciferol,Drisdol,Vitamin D2,Vitamin-D deficiency; hypoparathyroidism,14478963,5105510,+5.6%
+47,Cetirizine,"Zyrtec, Quzyttir",2nd-generation H1 antihistamine,Allergic rhinitis; urticaria,14363214,4124050,+26.0%
+48,Ondansetron,Zofran,5-HT3 antagonist,Prevention/treatment of nausea and vomiting,13794023,7285417,+10.3%
+49,Cyclobenzaprine,"Flexeril, Amrix",Skeletal muscle relaxant,Acute musculoskeletal spasm,13771868,5249035,-1.4%
+50,Spironolactone,"Aldactone, CaroSpir",Aldosterone antagonist/K-sparing diuretic,HF; hypertension; edema; hyperaldosteronism,13427856,4057776,+5.1%
