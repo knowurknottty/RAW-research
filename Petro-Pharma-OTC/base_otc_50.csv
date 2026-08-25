@@ -1,0 +1,51 @@
+rank,active_ingredient,common_us_brands,category_primary_use,typical_otc_form_strength
+1,Acetaminophen,Tylenol,Pain / fever,325 mg / 500 mg oral
+2,Ibuprofen,"Advil, Motrin IB",NSAID; pain / fever,200 mg oral
+3,Naproxen sodium,Aleve,NSAID; pain / inflammation,220 mg oral
+4,Aspirin,"Bayer, Ecotrin",Pain / fever / antiplatelet,81 mg / 325 mg oral
+5,Diclofenac sodium,Voltaren Arthritis Pain,NSAID; arthritis pain,1% topical gel
+6,Lidocaine,"Aspercreme, Salonpas",Topical anesthetic / pain,Up to 4% topical
+7,Cetirizine,Zyrtec,Antihistamine / allergy,10 mg oral
+8,Loratadine,Claritin,Antihistamine / allergy,10 mg oral
+9,Fexofenadine,Allegra,Antihistamine / allergy,"60 mg, 180 mg oral"
+10,Levocetirizine,Xyzal,Antihistamine / allergy,5 mg oral
+11,Diphenhydramine,Benadryl,Antihistamine / allergy,25 mg oral
+12,Chlorpheniramine,Chlor-Trimeton,Antihistamine / allergy,4 mg oral
+13,Doxylamine succinate,Unisom SleepTabs,Sedating antihistamine / sleep,25 mg oral
+14,Meclizine,"Bonine, Dramamine Less Drowsy",Motion sickness,25 mg oral
+15,Dimenhydrinate,Dramamine,Motion sickness,50 mg oral
+16,Fluticasone propionate,Flonase Allergy Relief,Nasal corticosteroid / allergies,50 mcg/spray
+17,Fluticasone furoate,Flonase Sensimist,Nasal corticosteroid / allergies,27.5 mcg/spray
+18,Triamcinolone acetonide,Nasacort Allergy 24HR,Nasal corticosteroid,55 mcg/spray
+19,Budesonide,Rhinocort Allergy,Nasal corticosteroid,32 mcg/spray
+20,Mometasone furoate,Nasonex 24HR Allergy,Nasal corticosteroid,50 mcg/spray
+21,Azelastine hydrochloride,Astepro Allergy,Nasal antihistamine,0.15% nasal spray
+22,Cromolyn sodium,NasalCrom,Mast-cell stabilizer / allergy,Nasal spray
+23,Oxymetazoline,Afrin,Nasal decongestant,0.05% nasal spray
+24,Pseudoephedrine,Sudafed,Oral decongestant,"30 mg, 120 mg, 240 mg"
+25,Dextromethorphan,"Delsym, Robitussin DM products",Cough suppressant,Oral liquid/tablets
+26,Guaifenesin,"Mucinex, Robitussin",Expectorant,200-1200 mg oral
+27,Omeprazole,Prilosec OTC,Proton-pump inhibitor / reflux,20 mg delayed release
+28,Esomeprazole magnesium,Nexium 24HR,Proton-pump inhibitor / reflux,20 mg delayed release
+29,Lansoprazole,Prevacid 24HR,Proton-pump inhibitor / reflux,15 mg delayed release
+30,Famotidine,Pepcid AC,H2 blocker / heartburn,"10 mg, 20 mg oral"
+31,Calcium carbonate,Tums,Antacid,500-1000 mg chewable
+32,Bismuth subsalicylate,Pepto-Bismol,Diarrhea / upset stomach,262 mg tablets/liquid
+33,Loperamide,Imodium A-D,Antidiarrheal,2 mg oral
+34,Simethicone,"Gas-X, Mylicon",Antiflatulent,Various oral strengths
+35,Polyethylene glycol 3350,MiraLAX,Osmotic laxative,17 g powder
+36,Bisacodyl,Dulcolax,Stimulant laxative,5 mg tablets / suppository
+37,Sennosides / senna,"Senokot, Ex-Lax",Stimulant laxative,Oral tablets
+38,Magnesium hydroxide,Milk of Magnesia,Saline laxative / antacid,Oral suspension
+39,Glycerin,Fleet Glycerin,Rectal laxative,Suppository
+40,Hydrocortisone,Cortizone-10,Topical corticosteroid,0.5-1% topical
+41,Clotrimazole,Lotrimin AF,Topical antifungal,1% cream
+42,Miconazole nitrate,"Micatin, Monistat",Antifungal,Usually 2% topical; vaginal forms vary
+43,Terbinafine hydrochloride,Lamisil AT,Topical antifungal,1% topical
+44,Butenafine hydrochloride,Lotrimin Ultra,Topical antifungal,1% cream
+45,Tolnaftate,Tinactin,Topical antifungal,1% topical
+46,Benzoyl peroxide,"PanOxyl, Clearasil products",Acne,2.5-10% topical
+47,Adapalene,Differin Gel,Retinoid / acne,0.1% topical
+48,Minoxidil,Rogaine,Hair-loss treatment,2% / 5% topical
+49,Ketotifen fumarate,"Zaditor, Alaway",Ophthalmic antihistamine,0.025% eye drops
+50,Olopatadine hydrochloride,Pataday,Ophthalmic antihistamine,"0.1%, 0.2%, 0.7% drops"
