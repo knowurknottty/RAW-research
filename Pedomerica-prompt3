@@ -1,0 +1,178 @@
+PROMPT 36 — THE LOYALTY TEST
+Investigate whether political loyalty to an individual is becoming a meaningful criterion for federal appointment, retention, promotion, or removal.
+Do not use isolated rhetoric as proof.
+Find institutional evidence.
+SEARCH
+* personnel announcements
+* transition documents
+* loyalty questionnaires
+* public statements
+* hiring criteria
+* firing explanations
+* reassignment patterns
+* inspector-general removals
+* prosecutor removals
+* military leadership removals
+* intelligence leadership changes
+* civil-service reclassification
+* agency directives
+DISTINGUISH
+* ordinary policy alignment
+* partisan appointment
+* ideological compatibility
+* presidential loyalty
+* personal loyalty
+* refusal to obey unlawful orders
+* insubordination
+* normal management discretion
+CASE FILE FORMAT
+For each example:
+* person
+* position
+* date
+* action
+* stated reason
+* documentary evidence
+* alternative explanation
+* legal status
+* confidence
+OUTPUT
+Working title:
+The Loyalty Test
+Include a section titled:
+Policy Loyalty Is Not Personal Loyalty
+Make that distinction explicit.
+
+PROMPT 37 — THE ENEMY LIST
+Build a chronological corpus of domestic groups and individuals described by senior political or governmental actors as enemies, threats, traitors, vermin, criminals, subversives, invaders, or comparable terms.
+TARGET CATEGORIES
+* opposition politicians
+* judges
+* prosecutors
+* journalists
+* media organizations
+* universities
+* protesters
+* immigrants
+* NGOs
+* civil servants
+* intelligence officials
+* election officials
+* lawyers
+* activists
+* donors
+* corporations
+FOR EACH RECORD
+* speaker
+* date
+* location/platform
+* exact quote
+* target
+* target category
+* proposed response
+* later government action
+* timing between rhetoric and action
+* source
+* archive
+* confidence
+CRITICAL ANALYTICAL TEST
+Separate:
+A. insult
+B. delegitimization
+C. accusation of criminality
+D. designation as enemy
+E. threat of investigation
+F. actual investigation
+G. administrative sanction
+H. prosecution
+Do not collapse them.
+OUTPUT
+Produce:
+* searchable table
+* timeline
+* rhetoric→action map
+* false-positive controls
+* article
+Working title:
+The Enemy List
+
+PROMPT 38 — PUNISHMENT AFTER SPEECH
+Investigate cases in which individuals or institutions criticized the administration and subsequently experienced government investigation, funding threats, regulatory action, security-clearance action, access revocation, contract changes, tax scrutiny, immigration action, prosecution, or other adverse treatment.
+The objective is to test retaliation claims.
+Do not infer retaliation from timing alone.
+FOR EACH CASE
+Record:
+* critic
+* criticism
+* date
+* government action
+* action date
+* agency
+* legal basis
+* preexisting investigation?
+* normal enforcement history?
+* comparable cases?
+* documentary evidence of retaliatory intent?
+* court finding?
+* official explanation?
+ASSIGN CAUSATION CONFIDENCE
+C0 — no evidence beyond timing C1 — suggestive chronology C2 — circumstantial evidence C3 — strong documentary evidence C4 — explicit admission / judicial finding
+OUTPUT
+Produce:
+* retaliation ledger
+* strongest confirmed cases
+* strongest false alarms
+* legal analysis
+* article
+Working title:
+Punishment After Speech
+
+PROMPT 39 — WHEN THE MILITARY BECOMES DOMESTIC
+Investigate the legal, operational, and historical framework governing domestic use of military forces.
+INCLUDE
+* Posse Comitatus Act
+* Insurrection Act
+* Title 10
+* Title 32
+* National Guard state active duty
+* NORTHCOM
+* border deployments
+* civil-disturbance operations
+* logistical support to immigration enforcement
+* detention support
+* military-base use
+* transportation
+* engineering
+* surveillance support
+BUILD A CAPABILITY MATRIX
+For each authority determine whether military personnel may:
+* transport
+* surveil
+* construct
+* detain
+* arrest
+* search
+* operate checkpoints
+* provide intelligence
+* support civilian police
+* engage in riot control
+HISTORICAL COMPARATORS
+Include:
+* Reconstruction
+* Bonus Army
+* Little Rock
+* 1960s civil disturbances
+* Los Angeles 1992
+* post-9/11 domestic missions
+* border deployments
+OUTPUT
+Produce:
+* legal matrix
+* active deployment timeline
+* current force levels
+* mission descriptions
+* chain-of-command analysis
+* civil-military risks
+* article
+Working title:
+When the Military Becomes Domestic
